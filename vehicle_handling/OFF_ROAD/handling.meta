@@ -70,7 +70,7 @@
 			<vecCentreOfMassOffset x="0.000000" y="0.100000" z="-0.100000" />
 			<vecInertiaMultiplier x="1.100000" y="1.100000" z="1.100000" />
 			<fDriveBiasFront value="0.200000" />
-			<nInitialDriveGears value="5" />
+			<nInitialDriveGears value="4" />
 			<fInitialDriveForce value="0.200000" />
 			<fDriveInertia value="1.000000" />
 			<fClutchChangeRateScaleUpShift value="2.300000" />
@@ -1477,7 +1477,7 @@
 			<handlingName>DUNE4</handlingName>
 			<fMass value="1000.000000" />
 			<fInitialDragCoeff value="9.000000" />
-			<fDownforceModifier value="2.00000" />
+			<fDownforceModifier value="0.00000" />
 			<fPercentSubmerged value="85.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="0.050000" z="0.000000" />
 			<vecInertiaMultiplier x="1.000000" y="1.600000" z="1.700000" />
@@ -1535,7 +1535,7 @@
 			<handlingName>DUNE5</handlingName>
 			<fMass value="1000.000000" />
 			<fInitialDragCoeff value="9.010000" />
-			<fDownforceModifier value="2.00000" />
+			<fDownforceModifier value="0.00000" />
 			<fPercentSubmerged value="85.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="0.050000" z="0.000000" />
 			<vecInertiaMultiplier x="1.000000" y="1.600000" z="1.700000" />
@@ -2400,7 +2400,7 @@
 			<handlingName>MONSTROCITI</handlingName>
 			<fMass value="1990.000000" />
 			<fInitialDragCoeff value="10.75000" />
-			<fDownforceModifier value="150.000" />
+			<fDownforceModifier value="0.000" />
 			<fPercentSubmerged value="85.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="-0.035000" z="0.00000" />
 			<vecInertiaMultiplier x="1.30000" y="1.42000" z="1.32000" />
@@ -3866,16 +3866,16 @@
 			<vecCentreOfMassOffset x="0.000000" y="-0.050000" z="0.000000" />
 			<vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
 			<fDriveBiasFront value="0.000000" />
-			<nInitialDriveGears value="5" />
-			<fInitialDriveForce value="0.260000" />
+			<nInitialDriveGears value="4" />
+			<fInitialDriveForce value="0.200" />
 			<fDriveInertia value="1.000000" />
 			<fClutchChangeRateScaleUpShift value="2.000000" />
 			<fClutchChangeRateScaleDownShift value="2.000000" />
-			<fInitialDriveMaxFlatVel value="136.000000" />
+			<fInitialDriveMaxFlatVel value="130.000000" />
 			<fBrakeForce value="0.700000" />
 			<fBrakeBiasFront value="0.580000" />
 			<fHandBrakeForce value="0.300000" />
-			<fSteeringLock value="38.000000" />
+			<fSteeringLock value="28.000000" />
 			<fTractionCurveMax value="2.050000" />
 			<fTractionCurveMin value="1.950000" />
 			<fTractionCurveLateral value="22.500000" />
